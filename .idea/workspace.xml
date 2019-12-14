@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c5b61bb-ec41-4d71-a289-2328fb1cc057" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UrC6syUJiBd8Q9W6uMFvfKKJNb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Pytest" type="tests" factoryName="py.test">
+      <module name="CodingDojo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="CodingDojo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;pytest&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c5b61bb-ec41-4d71-a289-2328fb1cc057" name="Default Changelist" comment="" />
+      <created>1576105154314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576105154314</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="164" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576105596786">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="164" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.828@0.23.1440.828" timestamp="1576105596786" />
+    <state width="1419" height="382" key="GridCell.Tab.0.bottom" timestamp="1576165509814">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1419" height="382" key="GridCell.Tab.0.bottom/0.23.1440.828/1440.23.1920.1057@0.23.1440.828" timestamp="1576165509814" />
+    <state width="1419" height="214" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1576105598521" />
+    <state width="1899" height="382" key="GridCell.Tab.0.bottom/0.23.1920.1008@0.23.1920.1008" timestamp="1576112932451" />
+    <state width="1419" height="382" key="GridCell.Tab.0.center" timestamp="1576165509813">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1419" height="382" key="GridCell.Tab.0.center/0.23.1440.828/1440.23.1920.1057@0.23.1440.828" timestamp="1576165509813" />
+    <state width="1419" height="214" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1576105598520" />
+    <state width="1899" height="382" key="GridCell.Tab.0.center/0.23.1920.1008@0.23.1920.1008" timestamp="1576112932450" />
+    <state width="1419" height="382" key="GridCell.Tab.0.left" timestamp="1576165509812">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1419" height="382" key="GridCell.Tab.0.left/0.23.1440.828/1440.23.1920.1057@0.23.1440.828" timestamp="1576165509812" />
+    <state width="1419" height="214" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1576105598519" />
+    <state width="1899" height="382" key="GridCell.Tab.0.left/0.23.1920.1008@0.23.1920.1008" timestamp="1576112932450" />
+    <state width="1419" height="382" key="GridCell.Tab.0.right" timestamp="1576165509813">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1419" height="382" key="GridCell.Tab.0.right/0.23.1440.828/1440.23.1920.1057@0.23.1440.828" timestamp="1576165509813" />
+    <state width="1419" height="214" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1576105598520" />
+    <state width="1899" height="382" key="GridCell.Tab.0.right/0.23.1920.1008@0.23.1920.1008" timestamp="1576112932451" />
+    <state x="229" y="76" key="SettingsEditor" timestamp="1576105682807">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="229" y="76" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1576105682807" />
+    <state x="639" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1576105159432">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state x="639" y="359" key="com.intellij.ide.util.TipDialog/0.23.1920.1008@0.23.1920.1008" timestamp="1576105159432" />
+  </component>
+</project>
