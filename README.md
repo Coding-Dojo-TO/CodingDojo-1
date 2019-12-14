@@ -35,6 +35,7 @@ Write a function that received one argument, this argument should be a roman num
 - Jovenal Santos
 - Rodolfo Real
 - Elton Vieira
+- Joanne
 
 
 ## How to run
