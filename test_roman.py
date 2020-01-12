@@ -1,3 +1,4 @@
+import pytest
 from .roman import roman_to_integer
 
 def test_roman_number_I():
@@ -42,3 +43,21 @@ def test_roman_X():
 def test_roman_L():
     number = "L"
     assert 50 == roman_to_integer(number)
+
+def test_roman_C():
+    number = "C"
+    assert 100 == roman_to_integer(number)
+
+def test_roman_D():
+    number = "D"
+    assert 500 == roman_to_integer(number)
+
+def test_roman_M():
+    number = "M"
+    assert 1000 == roman_to_integer(number)
+
+def test_invalid_roman_numbers():
+    numbers = ["VX",1234,"XD"]
+    for number in numbers:
+        with pytest.raises(Exception):
+            roman_to_integer(number)
